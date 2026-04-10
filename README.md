@@ -194,7 +194,7 @@ RAG failure modes          ████████░░  80%
 
 <div align="center">
 
-`Pre-final year` &nbsp;·&nbsp; `IIIT Raichur` &nbsp;·&nbsp; `ML Minor @ IIIT Hyderabad` &nbsp;·&nbsp; `Open to Summer 2025 Internships`
+`Pre-final year` &nbsp;·&nbsp; `IIIT Raichur` &nbsp;·&nbsp; `ML Minor @ IIIT Hyderabad` &nbsp;·&nbsp; `Open to Summer 2026 Internships`
 
 **Building AI systems that work under real constraints — not just demos.**
 
