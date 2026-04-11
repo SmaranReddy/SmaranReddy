@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-                  ██████╗ ███╗   ███╗ █████╗ ██████╗  █████╗ ███╗   ██╗    ██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗
+                   ██████╗ ███╗   ███╗ █████╗ ██████╗  █████╗ ███╗   ██╗    ██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗
                   ██╔════╝ ████╗ ████║██╔══██╗██╔══██╗██╔══██╗████╗  ██║    ██╔══██╗██╔════╝██╔══██╗██╔══██╗╚██╗ ██╔╝
                   ╚█████╗  ██╔████╔██║███████║██████╔╝███████║██╔██╗ ██║    ██████╔╝█████╗  ██║  ██║██║  ██║ ╚████╔╝ 
                    ╚═══██╗ ██║╚██╔╝██║██╔══██║██╔══██╗██╔══██║██║╚██╗██║    ██╔══██╗██╔══╝  ██║  ██║██║  ██║  ╚██╔╝  
@@ -157,8 +157,10 @@ RAG failure modes          ████████░░  80%
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </td>
@@ -194,7 +196,7 @@ RAG failure modes          ████████░░  80%
 
 <div align="center">
 
-`Pre-final year` &nbsp;·&nbsp; `IIIT Raichur` &nbsp;·&nbsp; `ML Minor @ IIIT Hyderabad` &nbsp;·&nbsp; `Open to Summer 2026 Internships`
+`Pre-final year` &nbsp;·&nbsp; `IIIT Raichur` &nbsp;·&nbsp; `ML Minor @ IIIT Hyderabad` &nbsp;·&nbsp; `Open to Summer 2025 Internships`
 
 **Building AI systems that work under real constraints — not just demos.**
 
