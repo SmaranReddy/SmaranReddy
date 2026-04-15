@@ -70,7 +70,7 @@ class SmaranReddy:
 
 `FastAPI` `LangChain` `FAISS` `Python` `Docker`
 
-**[View Repo →](YOUR_REPO_URL)** &nbsp;·&nbsp; **[Live Demo →](YOUR_DEMO_URL)**
+**[View Repo →](https://github.com/SmaranReddy/Adaptive-Intelligent-RAG.git)** &nbsp;·&nbsp; **[Live Demo →](https://adaptive-intelligent-rag.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
