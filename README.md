@@ -60,49 +60,46 @@ class SmaranReddy:
 <tr>
 <td width="50%" valign="top">
 
-### Adaptive Research Intelligence Engine
-> RAG that knows when it doesn't know enough
+### RecomX — AI-Powered Recommendation Engine
+> Serverless ML pipeline for real-time e-commerce personalization
 
-- Multi-signal confidence engine detects retrieval failure
-- Triggers targeted knowledge ingestion autonomously
-- Critique-driven retry with failure classification
-- Sliding-window rate limiting + fallback model routing
+- AWS Personalize + Lambda delivering 6 recommendations per request at sub-100ms latency
+- 70+ products across 18 categories with HRNN and content-based filtering to reduce cold-start friction
+- Paywall-simulated React + Chakra UI frontend for production-ready, monetizable AI feature delivery
 
-`FastAPI` `LangChain` `FAISS` `Python` `Docker`
+`AWS Personalize` `Lambda` `React` `Chakra UI` `Python`
 
-**[View Repo →](https://github.com/SmaranReddy/Adaptive-Intelligent-RAG.git)** &nbsp;·&nbsp; **[Live Demo →](https://adaptive-intelligent-rag.vercel.app/)**
+**[View Repo →](https://github.com/SmaranReddy)**
 
 </td>
 <td width="50%" valign="top">
 
-### Enterprise Hybrid Search Platform
-> Two-stage retrieval with grounded generation
+### FinShield — Enterprise AML Detection Platform
+> LangGraph multi-agent orchestration for autonomous AML screening
 
-- FAISS + BM25 fusion with cross-encoder reranking
-- Grounding gate suppresses hallucination at source
-- Per-tenant index isolation for multi-tenant queries
-- Prometheus query tracing + TTL caching layer
+- LangGraph state machine with 9 specialized LLM agents across 12 nodes, screening 7 risk domains via Groq Llama 3.3 70B
+- Weighted risk scoring engine across 11 dimensions (sanctions 40pt, darknet 35pt, crypto mixer 30pt, PEP 25pt) with 4-tier classification and SAR generation
+- FastAPI async stack with 100 req/min rate limiting, lazy singleton LLM init, and multi-stage Docker isolation
 
-`FastAPI` `FAISS` `BM25` `LangChain` `Prometheus`
+`FastAPI` `LangGraph` `Groq` `Docker` `PostgreSQL` `Python`
 
-**[View Repo →](YOUR_REPO_URL)**
+**[View Repo →](https://github.com/SmaranReddy)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Hybrid CNN–ViT–GNN Architecture
-> Ablation study — what does each component actually contribute?
+### ScholarMind — Adaptive RAG Research Engine
+> 11-phase adaptive pipeline with autonomous knowledge ingestion
 
-- CNN local features + ViT global attention + GNN relational reasoning
-- Dynamic k-NN graph over transformer patch embeddings
-- Controlled ablations isolating each component independently
-- Trained on CIFAR-10 · 50K images
+- +12.6% answer relevance over naive RAG (7.4→8.33/10) via multi-query generation and O(1) batched LLM reranking over 2×top_k candidates
+- Reduced median latency from 26.4s to 1ms on 70% of queries via three-level cache hierarchy (SHA-256 invalidation, FIFO retrieval cache, batch-encoded embedding cache)
+- Improved grounding from 90% to 93.3% with LLM-as-judge self-critique loop, type-aware retry strategies, and 5-rule auto paper ingestion
 
-`PyTorch` `Hugging Face` `CUDA` `Python`
+`FastAPI` `LangChain` `FAISS` `Python` `Docker`
 
-**[View Repo →](YOUR_REPO_URL)**
+**[View Repo →](https://github.com/SmaranReddy/Adaptive-Intelligent-RAG.git)**
 
 </td>
 <td width="50%" valign="top">
@@ -137,37 +134,54 @@ RAG failure modes          ████████░░  80%
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **AI / ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Backend & Infra**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-**Retrieval & Search**
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
+
+**Cloud LLMs & Retrieval**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -197,7 +211,7 @@ RAG failure modes          ████████░░  80%
 
 <div align="center">
 
-`Pre-final year` &nbsp;·&nbsp; `IIIT Raichur` &nbsp;·&nbsp; `ML Minor @ IIIT Hyderabad` &nbsp;·&nbsp; `Open to Summer 2025 Internships`
+`Pre-final year` &nbsp;·&nbsp; `IIIT Raichur` &nbsp;·&nbsp; `ML Minor @ IIIT Hyderabad` &nbsp;·&nbsp;
 
 **Building AI systems that work under real constraints — not just demos.**
 
